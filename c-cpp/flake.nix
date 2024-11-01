@@ -27,6 +27,7 @@
               clang-tools
               bear
               gcc
+              binutils
               gcc-wrapper
               cmake
               codespell
