@@ -18,7 +18,7 @@
             (with pkgs.python311Packages; [
               pip
               venvShellHook
-              cargo
+              conda
             ]);
         };
       });
